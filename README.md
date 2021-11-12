@@ -50,6 +50,10 @@ cd project-6
 npm install
 ```
 
+Libraries Used:
+1. truffle
+2. truffle-hdwallet-provider
+
 Launch Ganache:
 
 ```
@@ -105,10 +109,13 @@ npm run dev
 to make the web faster, safer, and more open.
 * [Truffle Framework](http://truffleframework.com/) - Truffle is the most popular development framework for Ethereum with a mission to make your life a whole lot easier.
 
+## Deployed Contract
 
-## Authors
-
-See also the list of [contributors](https://github.com/your/project/contributors.md) who participated in this project.
+The contract is deployed on the Ropsten test network:
+transaction hash: 0x58352100b0b7eb70e2a5afa6c86e8fa1e4719b408d5e9bcd1b0d648fce53808d
+Etherscan link: https://ropsten.etherscan.io/tx/0x58352100b0b7eb70e2a5afa6c86e8fa1e4719b408d5e9bcd1b0d648fce53808d
+Contract: 0xeeef4a7c3D2de82bD3BeE61726a48D22EF7F0e08
+Etherscan link for contract: https://ropsten.etherscan.io/address/0xeeef4a7c3d2de82bd3bee61726a48d22ef7f0e08
 
 ## Acknowledgments
 
